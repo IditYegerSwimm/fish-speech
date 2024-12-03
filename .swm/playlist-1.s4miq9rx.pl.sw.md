@@ -7,8 +7,8 @@ app_version: 1.40.0
 
 <!-- Steps - Do not remove this comment -->
 1. [Doc 1](doc-1.wc7vcwgq.sw.md)
-2. [Doc 2](doc-2.55v1lk7j.sw.md)
-3. [Doc3](doc3.8zrp6ih3.sw.md)
+2. [Doc 3](doc-3.8zrp6ih3.sw.md)
+3. [Doc 2](doc-2.55v1lk7j.sw.md)
 
 
 <br/>

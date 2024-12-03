@@ -1,5 +1,5 @@
 ---
-title: Doc3
+title: Doc 3
 ---
 Test
 
